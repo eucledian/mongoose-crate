@@ -5,3 +5,7 @@ coverage
 Thumbs.db
 node_modules
 *.log
+
+# Tags
+tags
+tags.*
